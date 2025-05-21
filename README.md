@@ -1,5 +1,5 @@
 👋 Hi, I’m Webster Boeing
-🎓 I recently graduated with an Associate of Applied Science in Software Development from Minneapolis Community College, earning a 3.58 GPA.
+🎓 I recently graduated with an Associate of Applied Science in Software Development from Minneapolis Technical and Community College, earning a 3.58 GPA.
 💡 I'm passionate about building accessible, creative, and user-friendly applications that solve real-world problems.
 
 💻 Skills & Technologies:
