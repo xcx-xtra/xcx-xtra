@@ -24,5 +24,3 @@ Mood-Based Playlist Generator – Web app that recommends music based on mood
 Keep building full-stack web apps and mobile projects
 
 Break into a role where I can combine my love for design, tech, and accessibility
-
-Launch a YouTube channel about spiritual events and tech creativity
