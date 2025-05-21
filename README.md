@@ -1,42 +1,28 @@
-# 👋 Hi, I'm Webster Boeing
+👋 Hi, I’m Webster Boeing
+🎓 I recently graduated with an Associate of Applied Science in Software Development from Minneapolis Community College, earning a 3.58 GPA.
+💡 I'm passionate about building accessible, creative, and user-friendly applications that solve real-world problems.
 
-🎓 Software Developer | Digital Accessibility Advocate | Blazor & .NET Enthusiast  
-📍 Based in Minneapolis | 💡 Passionate about building inclusive and impactful apps
+💻 Skills & Technologies:
+Languages: Java, Python, C#, JavaScript, HTML, CSS
 
----
+Frameworks & Tools: Blazor, React, Next.js, Node.js, Tailwind CSS, Docker, Firebase, MongoDB, SQL
 
-## 🧠 About Me
+Software: Visual Studio Code, GitHub, Adobe Photoshop, Microsoft Office Suite
 
-I'm currently completing my **Associate Degree in Software Development** (Graduating 2025, 4.0 GPA) while working as a **Digital Accessibility and Assistive Technology (DAAT)** specialist. I love combining technical problem-solving with a human-centered approach to make software more accessible for everyone.
+Other: Digital Accessibility, Assistive Technology, UI/UX Design, Customer Service
 
----
+🚀 Projects I’m Working On:
+FitQuest – A gamified fitness tracker built with Blazor + Tailwind CSS
 
-## 🔧 Technical Skills
+SlopeScout – A terrain exploration app for skateboarders/longboarders
 
-- **Languages & Frameworks**: C#, Java, JavaScript, Blazor, ASP.NET Core, Entity Framework Core, SQL
-- **Frontend**: Blazor WebAssembly, HTML/CSS, Tailwind, Razor Pages
-- **Backend**: ASP.NET Core Web API, SignalR, RESTful APIs
-- **Tools**: Git, GitHub, Visual Studio, Docker (optional), Azure App Service, Postman
-- **Other**: Digital Accessibility, Microsoft Office Suite, Adobe Photoshop
+TradePulse – A real-time trading dashboard with SignalR and Blazorise Charts
 
----
+Mood-Based Playlist Generator – Web app that recommends music based on mood
 
-## 🚀 Current Projects
+🎯 Goals:
+Keep building full-stack web apps and mobile projects
 
-### 🏆 [FitQuest](https://github.com/your-username/FitQuest)  
-A gamified fitness challenge tracker built with Blazor WebAssembly, ASP.NET Core, and SignalR.  
-✅ Features real-time leaderboards, daily goals, badges, and Azure deployment.  
-🔧 Tech Stack: Blazor WASM, ASP.NET Core API, EF Core, SignalR, Azure
+Break into a role where I can combine my love for design, tech, and accessibility
 
-### 🌤️ [WeatherScope](https://github.com/your-username/WeatherScope) *(Capstone Project)*  
-A smart weather & astrology alert system designed to provide users with weather updates and horoscopes.  
-🚨 Includes real-time alerts and user customization.
-
----
-
-## 🎯 Career Goals
-
-I aim to work in roles where I can:
-- Build **accessible software** that empowers users with disabilities
-- Develop full-stack applications using **.NET and modern web frameworks**
-- Lead creative projects and continue growing in the **tech-for-good space**
+Launch a YouTube channel about spiritual events and tech creativity
